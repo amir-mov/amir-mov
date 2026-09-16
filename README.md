@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Amir 👋
 
-<!--
-**amir-mov/amir-mov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer interested in building **reliable, maintainable software and systems**.
 
-Here are some ideas to get you started:
+I mainly work with Python and enjoy working across backend development, APIs, automation, data processing, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+**Python · FastAPI · Django · SQL · PostgreSQL · MongoDB · Docker · Linux · Git**
+
+### Interests
+
+* Software Engineering
+* Backend & API Development
+* Data & ETL Pipelines
+* Automation
+* Distributed Systems
+* System Design
+* AI & AI Infrastructure
+
+### Projects
+
+A collection of projects exploring different areas of software engineering, from backend services and APIs to automation, data processing, and system-oriented applications.
+
+### Connect
+
+[LinkedIn](https://linkedin.com/in/movassaghi6)
