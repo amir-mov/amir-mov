@@ -1,6 +1,6 @@
 # Hi, I'm Amir 👋
 
-**Backend engineer who builds systems designed to keep working when things go wrong** — retries, proxy rotation, resumable pipelines, graceful failure handling.
+**Backend engineer focused on systems that make good trade-offs under failure — not just APIs that work on the happy path.**
 
 I work mainly in Python, focused on backend development, APIs, and automation.
 
