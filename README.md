@@ -1,26 +1,26 @@
 # Hi, I'm Amir 👋
 
-I'm a Software Engineer interested in building **reliable, maintainable software and systems**.
+**Backend engineer who builds systems designed to keep working when things go wrong** — retries, proxy rotation, resumable pipelines, graceful failure handling.
 
-I mainly work with Python and enjoy working across backend development, APIs, automation, data processing, and system design.
+I work mainly in Python, focused on backend development, APIs, and automation.
 
 ### Technologies
 
 **Python · FastAPI · Django · SQL · PostgreSQL · MongoDB · Docker · Linux · Git**
 
-### Interests
+### What I do
 
-* Software Engineering
-* Backend & API Development
-* Data & ETL Pipelines
-* Automation
-* Distributed Systems
-* System Design
-* AI & AI Infrastructure
+- Backend & API development
+- Automation & resilient data pipelines
+- System design
 
-### Projects
+Open to backend, automation, and data-focused roles across different kinds of startups — happy to get up to speed on a new domain fast.
 
-A collection of projects exploring different areas of software engineering, from backend services and APIs to automation, data processing, and system-oriented applications.
+### 🚀 Featured Projects
+
+- **[VC Portfolio Jobs](https://github.com/amir-mov/vc-portfolio-jobs)** — Turns a VC's public portfolio page into a filtered list of open jobs at every company they've backed. Adaptive crawling that tries the cheapest strategy first and automatically recovers from bot detection, with proxy rotation and resumable batch runs across dozens of VCs.
+- **[fastapi-clean-mongo](https://github.com/amir-mov/fastapi-clean-mongo)** — A clean-architecture FastAPI service backed by MongoDB — modular layering, dependency injection, and JWT authentication.
+- **[twitter-login](https://github.com/amir-mov/twitter-login)** — A FastAPI microservice using Kafka to handle login requests asynchronously, with JWT auth, MongoDB via Beanie ODM, and rate limiting.
 
 ### Connect
 
